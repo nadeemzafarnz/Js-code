@@ -1,8 +1,8 @@
 //conversion and confusion
-
+"use strict";
 let score="nadeem"
 
-console.log(typeof score)
+//console.log(typeof score)
 /*
 let valueInNumber = Number (score)
 console.log(typeof score)
@@ -22,7 +22,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // 1 => true ; 0=>false
 //  "" => false
 // "nadeem" =>true
-
+console.log(3+4 * 5 % 3)
 let someNumber =33
 let stringNumber = String(someNumber)
 console.log(stringNumber)
